@@ -1,7 +1,7 @@
 <div class="logos">
-  <img src="../assets/logo.svg" alt="Make.cm" />
+  <img src="./assets/logo.svg" alt="Make.cm" />
   <div class="seperator" />
-  <img src="../assets/svelte-logo.svg" alt="Svelte" />
+  <img src="./assets/svelte-logo.svg" alt="Svelte" />
 </div>
 
 <style scoped>
