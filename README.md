@@ -7,7 +7,7 @@ This project was bootstrapped with [Svelte CLI](https://svelte.dev).
 - [Vue](https://github.com/makecm/hello-world-vue-template)
 - [Angular](https://github.com/makecm/make-hello-world-angular-template)
 
-<img src="https://files.outfit.io/media_library_items/236742/Screen%2520Shot%25202020-11-03%2520at%252010.35.52%2520am.png" style="width: 60%; margin: 0 auto; display: block;" alt="make starter template" />
+<img src="https://raw.githubusercontent.com/sambauers/hello-world-svelte-template/main/make-hello-svelte-template.png" style="width: 60%; margin: 0 auto; display: block;" alt="make starter template" />
 
 ## Development server
 
