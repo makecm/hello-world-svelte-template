@@ -6,6 +6,7 @@ This project was bootstrapped with [Svelte CLI](https://svelte.dev).
 - [React](https://github.com/makecm/make-hello-world-react-template)
 - [Vue](https://github.com/makecm/hello-world-vue-template)
 - [Angular](https://github.com/makecm/make-hello-world-angular-template)
+- Svelte
 
 <img src="https://raw.githubusercontent.com/sambauers/hello-world-svelte-template/main/make-hello-svelte-template.png" style="width: 60%; margin: 0 auto; display: block;" alt="make starter template" />
 
