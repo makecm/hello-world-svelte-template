@@ -1,3 +1,9 @@
+export interface TemplateProps {
+  headline?: string;
+  showLogos?: boolean;
+  backgroundImage?: string;
+}
+
 export interface RandomCircleProps {
   r: number;
   cx: number;

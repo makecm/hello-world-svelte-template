@@ -1,8 +1,10 @@
 <script lang="ts">
+  import type { TemplateProps } from './types/global';
+
   import Logos from './components/Logos.svelte';
   import Shapes from './components/Shapes.svelte';
 
-  export let templateProps: any;
+  export let templateProps: TemplateProps;
 </script>
 
 <div id="app" style="background-image: url({ templateProps.backgroundImage })">
