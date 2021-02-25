@@ -40,3 +40,7 @@ Here are some helpful links to get you started
 - [Docs](https://docs.make.cm): First point of call
 - [Twitter](https://twitter.com/home): Drop us a message on twitter if you find a bug or have any feedback
 - [Svelte documentation](https://svelte.dev/docs)
+
+## Contribution
+
+Thanks so much to [sambauers](https://github.com/sambauers) for creating this template 👏👏👏
