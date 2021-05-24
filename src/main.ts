@@ -1,16 +1,19 @@
 import App from './App.svelte';
 
-// You can define input default values in this file. The templateProps will be merged with the json 
+// You can define default input values here. The values here will be used if no value is given. 
+const inputs = { 
+  ...{
+    headline: 'Hello World',
+    showLogos: true,
+    backgroundImage: ''
+  },
+  ...window.templateProps
+}
+
 const app = new App({
   target: document.body,
   props: {
-    templateProps: { 
-    ...{
-      headline: 'Hello World',
-      showLogos: true,
-      backgroundImage: ''
-    },
-    ...window.templateProps
+    templateProps: inputs
   }
 });
 
